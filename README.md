@@ -2,7 +2,7 @@
 The historical data of cryptocurrency and the consistency of these investments.
 
 ## Project Presentation
-[Cryptocurrency Presentation](https://github.com/WayneJ2/CryptoFutures--Project-1/blob/main/Cryptocurrency%20Presentation.pptx)
+[Cryptocurrency Presentation PDF](https://github.com/WayneJ2/CryptoFutures--Project-1/blob/main/Cryptocurrency%20Presentation.pdf)
 
 ## References
 - [Top 10 Cryptocurrencies Historical Dataset by Kash](https://www.kaggle.com/kaushiksuresh147/top-10-cryptocurrencies-historical-dataset)
